@@ -6,10 +6,10 @@
 
 ### Skills
 
-💻 Javascript, TypeScript, C#  
-🔧 Visual Studio Code  
-🚀 React, Angular  
-☁️ Azure, GCP  
+💻 Javascript, TypeScript, C#, SQL  
+🔧 Visual Studio Code, Docker, nodejs  
+🚀 React, Angular, React Native, Jest
+☁️ Azure, Google Cloud Platform (GCP)  
 
 ### Interests
 
