@@ -6,18 +6,18 @@
 
 ### Skills
 
-💻 Javascript, TypeScript, C#
-🔧 Visual Studio Code
-🚀 React, Angular
-☁️ Azure, GCP
+💻 Javascript, TypeScript, C#  
+🔧 Visual Studio Code  
+🚀 React, Angular  
+☁️ Azure, GCP  
 
 ### Interests
 
 🎮 Gaming  
-📚 Comics
-🎥 Star Wars
-🎵 Electronic music
-🌎 Travel  
+📚 Comics  
+🎥 Star Wars  
+🎵 Electronic music  
+🌎 Travel    
 
 ### Stats
 
