@@ -1,6 +1,6 @@
 ### Hi there, I'm Iván 👋
 
-👨‍💻 Senior Software Engineer  
+👨‍💻 Staff Software Engineer  
 🌐 [LinkedIn](https://www.linkedin.com/in/ireinoso/)  
 📧 [ivan.reinoso@outlook.es](mailto:ivan.reinoso@outlook.es)
 
