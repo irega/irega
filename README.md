@@ -16,7 +16,8 @@ in cross-functional teams, driven company-wide engineering initiatives, and
 shaped software architectures across different industries and company stages.
 
 I'm most useful when things are ambiguous: defining the approach, aligning
-stakeholders, and making sure the team can execute with confidence. I care about system design done right, observability, and building things that last.
+stakeholders, and making sure the team can execute with confidence. I care about system design done right, observability, safe rollouts and
+experimentation, and building things that last.
 
 I don't just ship - I try to leave the codebase, the docs, and the team
 in better shape than I found them.
