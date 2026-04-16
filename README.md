@@ -29,7 +29,7 @@ in better shape than I found them.
 **Languages** · TypeScript · JavaScript · Python · C#  
 **Frontend** · React · Angular · React Native  
 **State management** · Redux · NgRx · MobX · React Query · Zustand  
-**Backend** · Node.js · .NET / ASP.NET Core · FastAPI  
+**Backend** · Node.js · .NET / ASP.NET Core · Fastify  
 **Databases** · SQL Server · MySQL · Cosmos DB · Redis  
 **Infra & tooling** · Docker · AWS · Azure · GCP · GitHub Actions · Azure DevOps · CircleCI · GitLab  
 **Testing** · Jest · Vitest · React Testing Library · MSW · Cypress · Playwright · xUnit · pytest
