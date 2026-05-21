@@ -42,4 +42,4 @@ in better shape than I found them.
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=irega&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
