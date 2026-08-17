@@ -2,7 +2,7 @@
 
 **Principal Software Engineer** · Fullstack · 15+ years  
 Building product-driven systems from startups to scale.  
-Currently at **Fundanet**.
+Currently at [Fundanet](https://github.com/FundanetDev).
 
 🌐 [irega.github.io](https://irega.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/ireinoso/) · 📧 [ivan.reinoso@outlook.es](mailto:ivan.reinoso@outlook.es)
 
