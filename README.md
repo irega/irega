@@ -1,8 +1,8 @@
 ### Hey, I'm Iván 👋
 
-**Staff Software Engineer** · Fullstack · 15+ years  
+**Principal Software Engineer** · Fullstack · 15+ years  
 Building product-driven systems from startups to scale.  
-Currently at **Eventbrite** - Event Creation platform.
+Currently at @Fundanet.
 
 🌐 [irega.github.io](https://irega.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/ireinoso/) · 📧 [ivan.reinoso@outlook.es](mailto:ivan.reinoso@outlook.es)
 
